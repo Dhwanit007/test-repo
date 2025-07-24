@@ -5,3 +5,5 @@
 -  use ```git clone``` command by ```git clone "URL"```
 
 -  then after cloning use ```git init``` to initialize the git repository
+
+- then after git init command use command ``` git remote [Name] URL ``` to add a remote user for the repo
