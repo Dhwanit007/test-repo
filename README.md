@@ -4,4 +4,4 @@
 
 - ``` use `git clone` command by `git clone "URL" ```
 
-- ``` then after cloning use `git init` to initialize the git repository ```
+- ``` then after cloning use 'git init' to initialize the git repository ```
