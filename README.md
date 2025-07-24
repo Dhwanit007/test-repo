@@ -1,4 +1,4 @@
-# to use github repo on local device use the folllowing steps
+## to use github repo on local device use the folllowing steps
 
 -  make a local folder
 
