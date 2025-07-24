@@ -6,4 +6,4 @@
 
 -  then after cloning use ```git init``` to initialize the git repository
 
-- then after git init command use command ``` git remote [Name] URL ``` to add a remote user for the repo
+- then after git init command use command ``` git remote [Name] URL .git ``` to add a remote user for the repo, add .git after the URL link 
