@@ -18,3 +18,12 @@
 
 - after using commit command , use ``` git push [Name] [branch name] ``` to make changes in the github repository..
 
+# Making new branch
+
+- want to make ne wbranch ? Here's Ho wyou can make new branch in an existing repo .
+
+- use command ```git branch <branch_name>``` to make new branch .
+
+- to use the new branch use ```git checkout <branch_name>``` ..
+
+- to check what branches are available in your repo use ```git branch``` command to list all the branches.
