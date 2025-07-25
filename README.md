@@ -20,7 +20,7 @@
 
 # Making new branch
 
-- Want to make ne wbranch ? Here's Ho wyou can make new branch in an existing repo .
+- Want to make new branch ? Here's How you can make new branch in an existing repo .
 
 - Use command ```git branch <branch_name>``` to make new branch .
 
