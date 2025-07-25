@@ -27,3 +27,7 @@
 - To use the new branch use ```git checkout <branch_name>``` ..
 
 - To check what branches are available in your repo use ```git branch``` command to list all the branches.
+
+# Merge files in main branch
+
+- To merge file in main branch use command ```git merge <branch_name>``` by checking out the branch you want to merge with.. For example if you want to merge files of branch that is named "New" with the main branch .. First, switch to mau 
