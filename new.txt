@@ -4,3 +4,5 @@ new chnages to check rebase
 
 rebase with conflicts 2
 rebase with conflicts 1
+ 
+ new after signing key checking verifieed 
