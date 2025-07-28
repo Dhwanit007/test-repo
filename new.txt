@@ -1,6 +1,6 @@
 In the master branch 
 
 new chnages to check rebase
- 
 
- changes made in new branch after rebase
+rebase with conflicts 2
+rebase with conflicts 1
